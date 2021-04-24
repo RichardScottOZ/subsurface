@@ -32,11 +32,11 @@ subsurface
 
 DataHub for geoscientific data in Python. Two main purposes:
 
-+ Unify geometric data into data objects (using numpy arrays as memory representation) that all the packages of the stack understand
++ Unify geometric data into data objects (using numpy arrays as the memory representation) that all the packages of the stack understand
 
 + Basic interactions with those data objects:
     + Write/Read
-    + Categorized/Meta data
+    + Categorized/Metadata
     + Visualization
 
 
@@ -70,8 +70,8 @@ The difference between data levels is **not** which data they store but which da
 Documentation (WIP)
 -------------------
 
-Note that ``subsurface`` is still in early days; do expect things to change. We
-welcome contributions very much, please get in touch if you would like to add
+Note that ``subsurface`` is still in its early days; do expect things to change. We very much 
+welcome contributions, Please get in touch if you would like to add
 support for subsurface in your package.
 
 An early version of the documentation can be found here:
